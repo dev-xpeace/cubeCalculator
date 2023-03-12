@@ -1,0 +1,15 @@
+C:\Users\90507\Desktop\Codes C#\trying5\obj\Debug\net7.0\trying5.csproj.AssemblyReference.cache
+C:\Users\90507\Desktop\Codes C#\trying5\obj\Debug\net7.0\trying5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90507\Desktop\Codes C#\trying5\obj\Debug\net7.0\trying5.AssemblyInfoInputs.cache
+C:\Users\90507\Desktop\Codes C#\trying5\obj\Debug\net7.0\trying5.AssemblyInfo.cs
+C:\Users\90507\Desktop\Codes C#\trying5\obj\Debug\net7.0\trying5.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\Codes C#\trying5\bin\Debug\net7.0\trying5.exe
+C:\Users\90507\Desktop\Codes C#\trying5\bin\Debug\net7.0\trying5.deps.json
+C:\Users\90507\Desktop\Codes C#\trying5\bin\Debug\net7.0\trying5.runtimeconfig.json
+C:\Users\90507\Desktop\Codes C#\trying5\bin\Debug\net7.0\trying5.dll
+C:\Users\90507\Desktop\Codes C#\trying5\bin\Debug\net7.0\trying5.pdb
+C:\Users\90507\Desktop\Codes C#\trying5\obj\Debug\net7.0\trying5.dll
+C:\Users\90507\Desktop\Codes C#\trying5\obj\Debug\net7.0\refint\trying5.dll
+C:\Users\90507\Desktop\Codes C#\trying5\obj\Debug\net7.0\trying5.pdb
+C:\Users\90507\Desktop\Codes C#\trying5\obj\Debug\net7.0\trying5.genruntimeconfig.cache
+C:\Users\90507\Desktop\Codes C#\trying5\obj\Debug\net7.0\ref\trying5.dll
